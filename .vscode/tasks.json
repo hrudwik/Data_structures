@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Searching/BinarySearch.cpp"
+        "-g", "./Arrays/Pair_in_Array_whose_sum_is_k/main.cpp"
       ],
       "group": {
         "kind": "build",
