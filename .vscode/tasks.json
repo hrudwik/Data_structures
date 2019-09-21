@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Arrays/Count Pairs whose LCM is greater that min of pair/main.cpp"
+        "-g", "./Arrays/Count pairs whose LCM is greater that min of pair of numbers/main.cpp"
       ],
       "group": {
         "kind": "build",
