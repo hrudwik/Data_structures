@@ -1,0 +1,13 @@
+Count pairs in an array such that LCM(arr[i], arr[j]) > min(arr[i],arr[j])
+
+Given an array arr[], the task is to find the count of pairs from the array such that LCM(arr[i], arr[j]) > min(arr[i], arr[j])
+Note: Pairs (arr[i], arr[j]) and (arr[j], arr[i]) are considered identical and will be counted only once.
+
+Examples:
+
+Input: arr[] = {1, 1, 4, 9}
+Output: 5
+All valid pairs are (1, 4), (1, 9), (1, 4), (1, 9) and (4, 9)
+
+Input: arr[] = {2, 4, 5, 2, 5, 7, 2, 8}
+Output: 24
