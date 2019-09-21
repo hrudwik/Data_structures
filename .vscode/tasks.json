@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Arrays/Pair in Array whose sum is k/main.cpp"
+        "-g", "./Arrays/Count pairs whose sum is divisible by k/main.cpp"
       ],
       "group": {
         "kind": "build",
