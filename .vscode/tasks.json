@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Companies/Goldmaan Sachs/Online HackerRank Test/String Recursively remove all adjacent duplicates/main.cpp"
+        "-g", "./Companies/Goldmaan Sachs/Online HackerRank Test/count specific numbers in range/main.cpp"
       ],
       "group": {
         "kind": "build",
