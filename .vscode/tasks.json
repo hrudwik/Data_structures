@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Arrays/MaxSum SubArray/main.cpp"
+        "-g", "./Companies/Goldmaan Sachs/Online HackerRank Test/String Recursively remove all adjacent duplicates/main.cpp"
       ],
       "group": {
         "kind": "build",

@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "array": "cpp",
+    "forward_list": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "valarray": "cpp",
+    "filesystem": "cpp",
+    "xhash": "cpp",
+    "xstring": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp",
+    "bitset": "cpp",
+    "utility": "cpp",
+    "queue": "cpp",
+    "random": "cpp",
+    "stack": "cpp",
+    "type_traits": "cpp",
+    "ostream": "cpp"
+  }
+}
