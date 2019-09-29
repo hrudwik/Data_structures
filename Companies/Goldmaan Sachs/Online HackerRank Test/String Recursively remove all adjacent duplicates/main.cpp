@@ -6,14 +6,14 @@
 using namespace std; 
 
 string print(stack<char> s)
-    {
-        string str;
-        while (s.size()) {
-            str += s.top();
-            s.pop();
-        }
-        return str;
+{
+    string str;
+    while (s.size()) {
+        str += s.top();
+        s.pop();
     }
+    return str;
+}
 
 string removeDuplicates(string S) 
 {

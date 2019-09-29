@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Companies/Goldmaan Sachs/Online HackerRank Test/count specific numbers in range/main.cpp"
+        "-g", "./Companies/Goldmaan Sachs/Online HackerRank Test/OA 2019 - Spiral Matrix/main.cpp"
       ],
       "group": {
         "kind": "build",

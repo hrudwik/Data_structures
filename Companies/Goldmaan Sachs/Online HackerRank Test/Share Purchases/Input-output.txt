@@ -1,0 +1,13 @@
+Example 1:
+Input: "ABC"
+Output: 1
+
+
+Example 2:
+Input: "ABCCBA"
+Ouput: 7
+
+
+Example 3:
+Input: "PQACBA"
+Output: 7
