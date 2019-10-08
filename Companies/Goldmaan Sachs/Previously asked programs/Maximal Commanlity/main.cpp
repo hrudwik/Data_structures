@@ -1,4 +1,4 @@
-// C/C++ Solution of Share Purchase problem
+// C/C++ Solution of Maximal Commanality problem
 #include<bits/stdc++.h>
 
 using namespace std;

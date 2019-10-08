@@ -1,0 +1,17 @@
+Question 2 : Suppose a String  s=”kite”. We can represent it as “119205” by considering the position of each alphabet as it comes in A-Z(like 1 for A, 2 for B, …….., 11 for K and so on). But it is also possible that the string “119205” can be formed by the word “aaite” and “aste”.
+
+So given a string of integer we have to find how many such words are possible.
+
+Sample Input: “2112”
+
+Output : 5
+
+Explanation:
+
+2112 can be represented as:
+
+(2)(1)(1)(2) ->baab
+(2)(1)(12) ->bal
+(2)(11)(2)->bkb
+(21)(1)(2)->uab
+(21)(12)->ul
