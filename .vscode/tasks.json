@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./Companies/Goldmaan Sachs/Previously asked programs/DP/Adds in movies/main.cpp"
+        "-g", "./Companies/Goldmaan Sachs/Previously asked programs/OA 2020  Strange Sorting Problem/main.cpp"
       ],
       "group": {
         "kind": "build",
