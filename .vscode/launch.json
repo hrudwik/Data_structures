@@ -9,7 +9,7 @@
       "type": "cppdbg",
       "request": "launch",
       "program": "${workspaceFolder}/a.exe",
-      "args": [],
+      "args": ["C:\\Users\\Hudwik\\Desktop\\Desktop\\My GIt\\Data_structures\\VizExperts\\sphere.txt"],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
       "environment": [],
