@@ -8,7 +8,7 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "-g", "./VizExperts/legacy.cpp"
+        "-g", "./vizExperts/legacy.cpp"
       ],
       "group": {
         "kind": "build",
